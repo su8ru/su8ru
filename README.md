@@ -1,7 +1,7 @@
 
 # ![Hi!](https://twemoji.maxcdn.com/v/13.0.1/72x72/1f44b.png) Hi there!
 
-![Age: 16](https://img.shields.io/badge/age-16-8ec5ff?style=for-the-badge)
+![Age: 17](https://img.shields.io/badge/age-17-87a4af?style=for-the-badge)
 ![School: Azabu High School](https://img.shields.io/badge/school-azabu%20high%20school-457FB3?style=for-the-badge)
 ![Type: Front-end Engineer](https://img.shields.io/badge/type-front--end%20engineer-green?style=for-the-badge)
 
