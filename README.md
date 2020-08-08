@@ -1,5 +1,5 @@
 
-# ![Hi!](https://twemoji.maxcdn.com/v/13.0.1/72x72/1f44b.png) Hi there!
+# <img src="https://twemoji.maxcdn.com/v/13.0.1/72x72/1f44b.png" height=28px> Hi there!
 
 ![Age: 17](https://img.shields.io/badge/age-17-87a4af?style=for-the-badge)
 ![School: Azabu High School](https://img.shields.io/badge/school-azabu%20high%20school-457FB3?style=for-the-badge)
