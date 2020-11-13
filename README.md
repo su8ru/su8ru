@@ -3,7 +3,7 @@
 
 ![Age: 17](https://img.shields.io/badge/age-17-87a4af?style=for-the-badge)
 ![School: Azabu High School](https://img.shields.io/badge/school-azabu%20high%20school-457FB3?style=for-the-badge)
-![Type: Front-end Engineer](https://img.shields.io/badge/type-front--end%20engineer-green?style=for-the-badge)
+![Type: Front-end Engineer](https://img.shields.io/badge/type-front--end%20engineer-43853d?style=for-the-badge)
 
 ![ts](https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&style=flat-square)
 ![Vue](https://img.shields.io/badge/Vue.js-35495E.svg?logo=vue.js&logoColor=4fc08d&style=flat-square)
