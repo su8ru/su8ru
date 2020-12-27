@@ -16,5 +16,8 @@
 ![Material-UI](https://img.shields.io/badge/Material--UI-0081CB.svg?logo=material-ui&logoColor=fff&style=flat-square)
 ![Font Awesome](https://img.shields.io/badge/Font%20Awesome-339af0.svg?logo=Font-Awesome&logoColor=ffffff&style=flat-square)
 
+[![AtCoder Rating](https://img.shields.io/endpoint?style=flat-square&label=AtCoder%20Rating&labelColor=2d2d2d&url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fatcoder%2Fjson%2Fsu8ru)](https://atcoder.jp/users/su8ru)
+![PAST Rating](https://img.shields.io/endpoint?style=flat-square&url=https://gist.githubusercontent.com/su8ru/a8976add131737150b1416c30d172614/raw/8d03b64ed39ac0938ddba056d90d17dce5e4919e/past.json)
+
 ![](https://github-readme-stats.vercel.app/api?username=su8ru&show_icons=true&theme=default&count_private=true&hide=stars&text_color=7b7b7b&icon_color=87a4af&title_color=87a4af)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=su8ru&theme=default&layout=compact&text_color=7b7b7b&title_color=87a4af)
