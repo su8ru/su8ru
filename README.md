@@ -5,7 +5,7 @@
 ![School: Azabu High School](https://img.shields.io/badge/school-azabu%20high%20school-457FB3?style=for-the-badge)
 ![Type: Front-end Engineer](https://img.shields.io/badge/type-front--end%20engineer-43853d?style=for-the-badge)
 
-![ts](https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&style=flat-square)
+![ts](https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&style=flat-square&logoColor=fff)
 ![Vue](https://img.shields.io/badge/Vue.js-35495E.svg?logo=vue.js&logoColor=4fc08d&style=flat-square)
 ![React](https://img.shields.io/badge/React-282C34.svg?logo=react&logoColor=61DAFB&style=flat-square)
 ![PHP](https://img.shields.io/badge/PHP-777bb4.svg?logo=php&logoColor=fff&style=flat-square)
